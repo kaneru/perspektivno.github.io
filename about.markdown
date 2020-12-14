@@ -3,7 +3,9 @@ layout: page
 title: Обо мне
 permalink: /about/
 ---
-![me](https://sun9-13.userapi.com/impf/OE4fGF6sRABaOGFtqyqZzF0C5eHh3iT6lAeitw/QV9kCTehwmM.jpg?size=640x1136&quality=96&proxy=1&sign=071338f347d4f391506a7f0897358cb9&type=album){:height="50%" width="50%"}
+![me](https://sun9-13.userapi.com/impf/OE4fGF6sRABaOGFtqyqZzF0C5eHh3iT6lAeitw/QV9kCTehwmM.jpg?size=640x1136&quality=96&proxy=1&sign=071338f347d4f391506a7f0897358cb9&type=album){:height="20%" width="20%"}
+
+Привет! Меня зовут Тимур, занимаюсь мат. моделированием и программированием.
 
 ## Образование
 
